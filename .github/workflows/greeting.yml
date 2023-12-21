@@ -1,0 +1,12 @@
+name: GitHub Actions Demo
+on: push
+jobs:
+  Joby:
+    runs-on: ubuntu-latest
+    steps:
+      - name: step1
+        run: echo "event_name by ${{ github.event_name }}."
+      - name: step2
+        run: echo "workspace by ${{ github.workspace }}."
+      - name: step3
+        run: echo "os by ${{ runner.os }}."
