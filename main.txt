@@ -1,6 +1,8 @@
 def print_hi(name):
     print(f'Hiiiiiiiiiiiiiiii, {name}')
-
+    print(sub(1, 2))
+    what is your name?
+    i++;
 
 if __name__ == '__main__':
     print_hi('bola')
