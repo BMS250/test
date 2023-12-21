@@ -1,25 +1,6 @@
 def print_hi(name):
     print(f'Hiiiiiiiiiiiiiiii, {name}')
-    print(sub(1, 2))
-    what is your name?
-    i++;
-<<<<<<< HEAD
-fdvsfbsdbdgbvdv
-=======
-deff
->>>>>>> br2
-
-def sub(x, y):
-    return x - y
 
 
 if __name__ == '__main__':
-<<<<<<< HEAD
-<<<<<<< HEAD
-    print_hi('baba')
-=======
-    print_hi('mama')
->>>>>>> br2
-=======
-    print_hi('shr')
->>>>>>> a69e6d6 (shrrrrr)
+    print_hi('bola')
