@@ -9,6 +9,6 @@ jobs:
       - name: x2
         uses: actions/checkout@v1
       - name: x3
-        run: ai haga
+        run: echo "ai haga"
     
     
