@@ -7,7 +7,7 @@ jobs:
       - name: x1
         run: echo "gbgbsgbwegbv"
       - name: x2
-        uses: actions/vv
+        uses: actions/checkout@v1
       - name: x3
         run: ai haga
     
